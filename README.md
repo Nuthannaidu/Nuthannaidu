@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nuthan Sagar</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | Turning Ideas into Scalable Applications</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Node.js+%7C+React+Developer;Open+Source+Contributor;Always+Learning+New+Technologies">
-</p>
+</p> -->
 
 ---
 
